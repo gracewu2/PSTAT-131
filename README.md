@@ -1,4 +1,4 @@
-# pstat131
+# PSTAT 131
 Predicting the Third Down Offensive Play: Run or Pass?
 PSTAT 131 Final Project
 Grace Wu
