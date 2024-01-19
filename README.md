@@ -1,6 +1,4 @@
-# PSTAT 131
+# PSTAT 131 Project
 Predicting the Third Down Offensive Play: Run or Pass?
-PSTAT 131 Final Project
-Grace Wu
 
-https://drive.google.com/file/d/1lHObQcRFeONBQTHvL3Z5mAhNVwkAMsbV/view?usp=sharing
+https://drive.google.com/file/d/1iXIgyObfXL386FPyubSxP4iF88A1h3w5/view?usp=sharing
